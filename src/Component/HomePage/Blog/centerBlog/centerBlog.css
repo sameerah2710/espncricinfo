@@ -1,0 +1,78 @@
+.Clog{
+    
+    border-radius: 20px;
+    gap: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+
+}
+.Blog1{
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.LBI{
+    border-radius: 20px;
+    width: 100%;
+}
+.LBIT{
+   padding: 10px;
+    color: white;
+}
+.LBIT> h1{
+
+}
+.LBIT> p{
+
+}
+.LBIBP{
+    display: flex;
+    flex-direction:row;
+    background-color: white;
+}
+.LBIBPIMG{
+
+}
+.DV{
+    height: 100px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.Blog2{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    background-color: white;
+    border-radius: 20px;
+}
+.Blog21{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    background-color: white;
+    border-radius: 20px;
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 0%;
+    
+}
+.Blog211{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+   margin: 5px;
+   padding-top: 5px;
+   width: 100%;
+   margin-left: 0%;
+   border-top-left-radius: 20px;
+   border-top-right-radius: 20px;
+}
+.Blog21p1{
+font-family: BentonSans-Bold, Arial, "Noto Sans", sans-serif;
+font-size: 12PX;
+font-weight: 700;
+color: #2b2c2b;
+line-height: 12PX;
+padding-left: 5px;
+}
+.Blog21p2{
+    font-family: BentonSans-Bold, Arial, "Noto Sans", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    color: #6c6d6c;
+    line-height: 14px;
+    background-color: white;
+    padding-left: 5px;
+}

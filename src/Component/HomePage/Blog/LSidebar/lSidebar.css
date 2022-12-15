@@ -1,0 +1,15 @@
+.LSBC{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+   border-radius: 10px;
+   padding: 30px;
+    margin-bottom:20px;
+}
+.Subele{
+    text-decoration: none;
+    color: black;
+    font-size:12px;
+    line-height:1.5;
+}
+.LSBCONT{
+    width: 450px;
+}

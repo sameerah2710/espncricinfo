@@ -1,0 +1,61 @@
+.main {
+  width: 100%;
+  display: flex;
+  justify-content: left;
+  gap: 1rem;
+  height: 2.8rem;
+  align-items: center;
+  margin-top: 0.6rem;
+}
+
+.reset {
+  /* color: darkgray; */
+  font-weight: bolder;
+  padding-right: 1rem;
+  border-right: 2px solid lightgray;
+  cursor: pointer;
+}
+
+.btns {
+  cursor: pointer;
+  /* background-color: white; */
+  border: 1px solid lightgrey;
+  border-radius: 0.6rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  color: grey;
+}
+
+.btns:hover {
+  color: rgb(3, 169, 244);
+}
+
+.main2 {
+  height: 2rem;
+  width: 15%;
+  margin-left: 25%;
+  position: fixed;
+  background-color: white;
+  border-radius: 0.9rem;
+  margin-top: 24%;
+  border: 1px solid lightgray;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.heading2 select {
+  margin-right: 45%;
+  margin-left: 4%;
+  margin-top: 0.5rem;
+  border: 0;
+  outline: 0;
+}
+
+.select option {
+  font-weight: bolder;
+  color: gray;
+}
+
+.select option:nth-child(1) {
+  font-weight: normal;
+  color: black;
+}

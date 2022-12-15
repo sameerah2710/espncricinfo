@@ -1,0 +1,55 @@
+*{
+    font-family: sans-serif;
+}
+h5{
+    color: rgb(122, 122, 235);
+    cursor: pointer;
+}
+.heading{
+    
+    background-color: white;
+    padding: 10px;
+    padding-left: 70px;
+    margin-top: 20px;
+    
+}
+.outerbox{
+    background-color: whitesmoke;
+    width: 100%;
+    height: auto;
+    
+}
+.heading2{
+    display : flex;
+    padding-left: 115px;
+    margin-top: -774px;
+    font-family:sans-serif ;
+    gap: 70px;
+    width: 70%;
+
+}
+
+.content{
+    width: 70%;
+    background-color: white;
+    margin-left: 70px;
+    padding-top: 20px;
+    display: flex;
+    padding-left: 15px;
+    gap : 125px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.vertical{
+    border-left: 0.5px solid rgb(199, 194, 194);
+    height: auto;
+    visibility:unset;
+    left: 50%;
+}
+.blogbox{
+    margin-left: 78%;
+    border: .5px solid;
+    width: 20%;
+    margin-top: 20px;
+    height: 500px;
+    overflow: scroll;
+}

@@ -1,0 +1,49 @@
+.heading_fixture{
+   line-height:1.25rem;
+}
+.heading_fixture>span{
+   font-family: BentonSans-Bold,Arial,Noto Sans,sans-serif;
+   font-size:10px;
+   color:#48494A;
+   font-weight:700;
+}
+
+.fixtures_result{
+   border:1.3px solid #04c8f5;
+   display:grid;
+   grid-template-columns: repeat(2,1fr);
+   border-radius:5px;
+}
+
+.fixtures_result>div{
+   padding:10px;
+   text-align:center;
+   box-sizing: border-box;
+   margin:0px;
+}
+
+.fixtures_result>div:nth-child(1){
+   background-color: #04c8f5;
+   color:white;
+}
+
+.heading_fixture>div{
+   color:rgba(108,109,111);
+   font-size:0.625rem;
+   margin-top:-5px;
+}
+
+.name_section_cntry{
+   font-size:0.874rem;
+   color:#48494A;
+   text-align:center;
+   line-height:1.33;
+   font-weight:700;
+   font-family:BentonSans-Bold,Arial,Noto Sans,sans-serif;
+}
+
+.match_begin{
+   color:#2B2C2D;
+   font-size:12px;
+   font-family:BentonSans-Bold,Arial,Noto Sans,sans-serif;
+}

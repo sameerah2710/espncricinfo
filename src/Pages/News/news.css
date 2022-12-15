@@ -1,0 +1,88 @@
+.newsmain{
+    width: 100%;
+    background-color: whitesmoke;
+
+   
+}
+.Latestnews{
+    width: 916px;
+   
+}
+.h11{
+    font-family: BentonSans-Bold,Arial,Noto Sans,sans-serif;
+    font-weight: 740;
+    font-size: 28px;
+    align-self:flex-start;
+    margin-top: 10px;
+    margin-left: 8px;
+
+}
+.img-responsive{
+    width: 289px;
+    height: 162px;
+    border-radius: 10px;
+}
+.MostRead1{
+    width:300px;
+    height: 44.6px;
+    text-align: left;
+}
+.MostRead , .Writers{
+    width: 300px;
+    border-radius: 10px;
+    background-color:white;
+    height: 580.8px;
+}
+.title{
+    font-family: BentonSans-Bold,Arial,Noto Sans,sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+}
+.ddiv{
+    width:59%;
+    text-align: left;
+    
+}
+.ddiv>p{
+    font-family: BentonSans-Bold,Arial,Noto Sans,sans-serif;
+    font-size: 14px;
+    color: #48494A;
+}
+.container,.dddiv{
+    width:60%;
+    height:96px;
+    text-align: left;
+    
+}
+.container>h1{
+    font-size: 14px;
+    font-family: BentonSans-Bold,Arial,Noto Sans,sans-serif;
+    line-height: 15px;
+  
+    
+}
+.container>p{
+    line-height: 0%;
+
+}
+
+.dddiv>p:nth-child(2){
+    font-family: BentonSans-Bold,Arial,Noto Sans,sans-serif;
+    font-size: 12px;
+    color: #48494A;
+}
+.dddiv>p:nth-child(3){
+    font-family: BentonSans-Bold,Arial,Noto Sans,sans-serif;
+    font-size: 11px;
+    color: #949498;
+}
+.dddiv>h1{
+    font-size: 14px;
+}
+.hhov:hover{
+    color:#03A9F4;
+    cursor:pointer
+}
+.Writers{
+    margin-top: 20px;
+}

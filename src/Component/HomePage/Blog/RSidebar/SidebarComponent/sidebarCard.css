@@ -1,0 +1,23 @@
+.SCp{
+    padding-left: 20px;
+    margin: 0px;
+    font-family: BentonSans-Medium, Arial, "Noto Sans", sans-serif;
+    font-size: 12px;
+    line-height: 16px;
+    color: #2b2c2b;
+    font-weight: 500;
+    padding-bottom: 0px;
+}
+h5{
+    font-family: BentonSans-Medium, Arial, "Noto Sans", sans-serif;
+    font-size: 12px;
+    line-height: 17px;
+    color: #2b2c2b;
+    font-weight: 600;
+    
+}
+.LSBC{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+   border-radius: 10px;
+   padding: 30px;
+}

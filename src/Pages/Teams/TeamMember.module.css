@@ -1,0 +1,27 @@
+.teamMember{
+   display:flex;
+   flex-direction:row;
+   gap:10px;
+   padding:1rem;
+   border-bottom:1px solid lightgrey;
+}
+
+.textDecor{
+   display:flex;
+   flex-direction: row;
+   gap:10px;
+}
+
+.textDecor>span:nth-child(1){
+   font-size:0.75rem;
+   font-weight:600;
+   color:#383838;
+   line-height:1.5;
+}
+
+.textDecor>span:nth-child(2){
+   font-size:0.75rem;
+   font-weight:bold;
+   color:grey;
+   line-height:1.5;
+}

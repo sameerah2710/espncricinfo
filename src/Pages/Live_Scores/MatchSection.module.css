@@ -1,0 +1,57 @@
+.main {
+  width: 100%;
+  border: 1px solid lightgray;
+  border-radius: 0.7rem;
+  margin-bottom: 1.5rem;
+  background-color: white;
+}
+
+.heading {
+  font-size: 1.2rem;
+  font-weight: bolder;
+  padding: 0.7rem;
+  border-bottom: 1px solid lightgray;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  cursor: pointer;
+}
+
+.grid span {
+  margin-left: 1rem;
+  vertical-align: top;
+}
+.grid img {
+  width: 5%;
+}
+
+.box {
+  border-right: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  padding: 1rem;
+}
+
+.box h4 {
+  color: red;
+}
+
+.box > span:nth-child(3) {
+  font-weight: bolder;
+}
+
+.box > span:nth-child(7) {
+  font-weight: bolder;
+}
+
+.box > span:nth-child(4) {
+  font-weight: bolder;
+  color: blue;
+}
+
+.box > span:nth-child(8) {
+  font-weight: bolder;
+  color: blue;
+
+}

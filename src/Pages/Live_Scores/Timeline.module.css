@@ -1,0 +1,28 @@
+.main {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  height: 2.8rem;
+  border-radius: 1rem;
+  border: 1px solid lightgrey;
+  align-items: center;
+  background-color: white;
+  margin-top: 0.6rem;
+}
+
+.heading {
+  font-size: 1.1rem;
+  font-weight: 400;
+  cursor: pointer;
+  width: 30%;
+  text-align: center;
+  padding-bottom: 0.3rem;
+}
+
+.main > p:nth-child(1) {
+  border-bottom: 0.2rem solid rgb(3, 169, 244);
+}
+
+.heading:hover {
+  color: rgb(3, 169, 244);
+}
