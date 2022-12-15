@@ -44,7 +44,7 @@ ESPNcricinfo is the world's leading cricket website and among the top five singl
 ### Homepage
 
 -------------------------
-![Screenshot (154)](https://user-images.githubusercontent.com/86877385/187080743-5ad42786-bd99-45e1-841d-95ef0ac04994.png)
+![Screenshot (154)](https://drive.google.com/file/d/1Wy0n4jBg45Yqbk-VzXRdwOjiqTtyRMiG/view?usp=share_link)
 
 ### Live Scores page
 -------------------------------
