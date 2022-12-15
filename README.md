@@ -1,6 +1,6 @@
 
 # Getting Started with Create React App
-### https://star-middle-3447-espncricinfo-clone.netlify.app/
+### https://espncricinfo-star-middle.netlify.app/
 
 
 ## espnCricinfo Clone
